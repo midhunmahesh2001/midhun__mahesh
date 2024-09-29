@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://midhunmahesh2001.github.io/midhun__mahesh/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

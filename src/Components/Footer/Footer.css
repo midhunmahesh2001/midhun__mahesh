@@ -1,0 +1,43 @@
+.footer {
+    color: var(--fourth-color);
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-logo h2 {
+    margin: 0;
+    font-size: 1.8rem;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .footer-links li {
+    display: inline;
+    margin: 0 20px;
+  }
+  
+  .footer-links a {
+    color: var(--fourth-color);
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .footer-links a:hover {
+    color: var(--primary-color); /* A light blue color for hover */
+  }
+  
+  .footer-text {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+  
